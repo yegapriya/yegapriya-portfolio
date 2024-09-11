@@ -7,9 +7,7 @@
 .container{
     margin-top: 2rem;
 }
-.navbar{
-    background-color: black;
-}
+
 .nav{
     justify-content: end;
 }
